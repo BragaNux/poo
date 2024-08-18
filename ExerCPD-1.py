@@ -1,3 +1,6 @@
+
+#- Código em C.
+
 # Inserionsort (int data[], int n) {
 #     int tmp,i,j;
 #     for (j=1;j<n;j++) {
@@ -12,6 +15,9 @@
 #     }//for
     
 # }//Insertionsort
+
+
+#- Código em Python
 
 def insertion_sort(data):
     n = len(data)
