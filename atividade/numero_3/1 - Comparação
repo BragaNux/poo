@@ -1,0 +1,9 @@
+A principal diferença entre o meu código e o código do chatgpt está na organização e boas práticas de programação. 
+Na minha versão, os atributos são públicos e acessados diretamente, sem encapsulamento, 
+enquanto a versão do chat usa getters e setters, seguindo as boas práticas de Programação Orientada a Objetos.
+
+Os métodos na versão melhorada também são mais robustos e organizados. Por exemplo, a geração de relatórios é mais detalhada e clara,
+garantindo que as informações sobre tarefas e funcionários sejam obtidas de forma mais estruturada.
+
+No geral, o código do chat segue princípios de POO, como encapsulamento e modularidade, tornando-o mais fácil de manter e expandir em projetos futuros.
+Enquanto minha versão funciona, ela é menos segura e mais difícil de escalar, especialmente em projetos maiores.

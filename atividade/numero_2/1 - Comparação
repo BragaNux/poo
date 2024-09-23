@@ -1,0 +1,6 @@
+Nessa comparação ma minha versão, os atributos são públicos e acessados diretamente, sem encapsulamento. 
+A versão do chatgpt faz uso de getters e setters, respeitando o princípio de encapsulamento, o que torna o código mais seguro e organizado.
+Isso inclui verificações, como garantir que o veículo esteja registrado na frota antes de registrar uma viagem. 
+Isso previne erros que a minha versão não considera.
+Por fim, na listagem de viagens e no cálculo da quilometragem total, ambos os códigos são funcionais, 
+mas a organização do código melhorado facilita futuras alterações e expansões, seguindo os princípios da Programação Orientada a Objetos.

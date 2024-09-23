@@ -1,0 +1,5 @@
+No exercício, comparei duas versões do sistema de gestão de biblioteca. 
+A primeira, feita por mim, é simples e funcional, mas não tem boas práticas, como encapsulamento e verificações. 
+Já a versão do chatgpt é maior, aplicando princípios de Programação Orientada a Objetos, com melhores métodos e verificações.
+A principal diferença está na organização, enquanto minha versão seria difícil de manter em projetos maiores o
+código do chat é mais seguro e fácil de gerenciar e manter uma manutenção.

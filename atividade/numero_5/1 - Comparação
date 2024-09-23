@@ -1,0 +1,10 @@
+Na minha versão do código, os atributos são públicos e acessados diretamente, sem encapsulamento, e as funcionalidades são implementadas de forma muito simples, 
+sem validações ou verificações de estado dos produtos, clientes ou pedidos. Os métodos, embora funcionais, não seguem boas práticas, como encapsulamento, 
+modularidade ou verificações de erros.
+
+Por outro lado, a versão do chatgpt usa princípios de Programação Orientada a Objetos, com atributos privados e acesso através de getters e setters, 
+garantindo a proteção dos dados e o controle de suas modificações. Além disso, a versão do chat inclui verificações, 
+como o controle de estoque ao processar pedidos e a remoção de produtos do carrinho, além de uma melhor organização dos métodos, tornando o código mais modular e escalável.
+
+A principal diferença está na organização e robustez enquanto a minha versão seria difícil de manter e escalar em um projeto real,
+a versão melhorada é mais confiável, segura e adequada para um sistema de loja virtual em um ambiente de produção.
